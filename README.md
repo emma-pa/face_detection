@@ -1,6 +1,6 @@
 # Face dectection system
 The aim of the project is to detect faces into images : 
-* A model has been learned from 500 labelled images. 
+* A model has been learned from 1000 labelled images. 
 * The model can be used to detect faces. The detection boxes are retrieved in a text file in the following format : image number, coordinates of the top left corner of the box, size of the box and detection score.
 
 ## About the project
